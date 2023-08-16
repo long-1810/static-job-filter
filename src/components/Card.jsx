@@ -33,7 +33,7 @@ export default function Card(props) {
         <img
           className="row-span-3 w-[88px] h-[88px]"
           src={logo}
-          alt="Photosnap"
+          alt="Logo"
         />
         <div className="flex justify-start items-center gap-4 col-span-2">
           <p className="text-primary" id="name">

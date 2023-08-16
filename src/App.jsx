@@ -1,6 +1,6 @@
 import Filter from "./components/Filter";
 import Card from "./components/Card";
-import data from "./assets/data.json";
+import data from "../data.json";
 import { useState } from "react";
 import { useEffect } from "react";
 
